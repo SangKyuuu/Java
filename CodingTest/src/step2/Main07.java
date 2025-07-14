@@ -31,6 +31,9 @@ public class Main07 {
 		int b = sc.nextInt();
 		int c = sc.nextInt();
 		
+		if(a == b && a== c) {
+			
+		}
 		
 	}
 
