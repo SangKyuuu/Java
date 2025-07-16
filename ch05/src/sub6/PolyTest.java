@@ -49,6 +49,12 @@ public class PolyTest {
 		arr[1].move();
 		arr[2].move();
 		
+		Dog d = new Dog();
+		d.printSound(d);
+		
+		Cat c = new Cat();
+		c.printSound(c);
+		
 		
 	}
 }
